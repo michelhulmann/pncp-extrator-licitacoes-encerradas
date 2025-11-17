@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.17632374">
-    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17632374.svg" alt="DOI">
+  <a href="https://doi.org/10.5281/zenodo.17633007">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17633007.svg" alt="DOI">
   </a>
   <img src="https://img.shields.io/github/v/release/michelhulmann/pncp-extrator-licitacoes-encerradas" alt="GitHub release (latest by date)">
   <img src="https://img.shields.io/github/license/michelhulmann/pncp-extrator-licitacoes-encerradas" alt="License: MIT">
