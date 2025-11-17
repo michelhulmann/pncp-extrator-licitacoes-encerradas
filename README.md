@@ -3,9 +3,14 @@
 </p>
 
 
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17632374.svg)](https://doi.org/10.5281/zenodo.17632374)
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/michelhulmann/pncp-extrator-licitacoes-encerradas)
-
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.17632374">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17632374.svg" alt="DOI">
+  </a>
+  <img src="https://img.shields.io/github/v/release/michelhulmann/pncp-extrator-licitacoes-encerradas" alt="GitHub release (latest by date)">
+  <img src="https://img.shields.io/github/license/michelhulmann/pncp-extrator-licitacoes-encerradas" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python 3.10+">
+</p>
 
 # PNCP -- Extrator de Licitações Encerradas (GUI)
 
