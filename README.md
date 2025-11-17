@@ -106,8 +106,8 @@ Software preservado e referenciável via Zenodo:
 
 # 📚 Como citar (ABNT NBR 6023:2018)
 
-HULMANN, M. PNCP – Extrator de Licitações Encerradas. Versão 1.0.1. Software. Zenodo, 2025.
-Disponível em: https://doi.org/10.5281/zenodo.17632374. Acesso em: ___ ___ _____.
+HULMANN, M. PNCP – Extrator de Licitações Encerradas. Versão 1.0.2. Software. Zenodo, 2025.
+Disponível em: https://doi.org/10.5281/zenodo.17633007. Acesso em: ___ ___ _____.
 
 
 ---
