@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="180" alt="Ícone do Extrator PNCP">
+</p>
+
 # Extrator de Licitações Encerradas do PNCP
 
 Este repositório contém um script em Python, com interface gráfica (Tkinter), desenvolvido para **extrair licitações encerradas** do Portal Nacional de Contratações Públicas (PNCP) e **exportar os resultados em arquivos CSV** (.csv ou .csv_br).
