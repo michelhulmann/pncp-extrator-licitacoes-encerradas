@@ -99,7 +99,8 @@ https://doi.org/10.5281/zenodo.17632374
 
 # 📚 Como citar
 
-    Hulmann, M. (2025). PNCP – Extrator de Licitações Encerradas (v1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17632374
+    HULMANN, M. PNCP – Extrator de Licitações Encerradas. Versão 1.0.1. Software. Zenodo, 2025. Disponível em: https://doi.org/10.5281/zenodo.17632374
+. Acesso em: ___ ___ _____.
 
 ------------------------------------------------------------------------
 
